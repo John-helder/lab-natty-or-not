@@ -23,29 +23,23 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto propõe a criação de um ETL para análise de preços de produtos online.
+Dessa forma, este projeto visa o acompanhamento em tempo real dos produtos acompanhados e com isso retorna informações precisas sobre seus valores e descrições
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- Google Studio
+- IDE VSCode
+- Python
+- Scrapy
+- SQLite
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Para a criação do projeto foi utilizada o Google Studio como recurso de estudo e criação do fluxo de projeto.
+Após isso, foi utilizada a linguagem de programação python junto com a biblioteca Scrapy para a extração das informações de um determinado e-commerce.
+Além disso, todas as informações extraídas foram salvas do SQLite para depois serem transformadas em um pipeline com as informações extraídas.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O projeto alcançou um resultado satisfatorio, visto que a intenção era a de criação de uma ETL de verificação de preços e média de vendas de cada produto verificado, além de extração da satisfação de vendas.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+O desafio me ajudou muito com a elaboração deste projeto, visto que pude aprender a utilizar as IA's de forma profissional, onde o intuito era desenvolver meu senso sobre como utilizar essas ferramentas para favorecer e facilitar meu trabalho.
